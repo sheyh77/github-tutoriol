@@ -1,0 +1,35 @@
+.javascript {
+    width: 500px;
+    height: 100px;
+    background-color: #777;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+#b {
+    color: #fff;
+    text-align: center;
+    transform: translateY(30px);
+}
+
+.ozgaruvchi {
+    width: 500px;
+    height: 150px;
+    background-color: #777;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.continear {
+    width: 700px;
+    height: 200px;
+    background-color: #777;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+#a {
+    color: #fff;
+    text-align: center;
+    transform: translateY(30px);
+}
